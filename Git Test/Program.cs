@@ -7,6 +7,7 @@ namespace Git_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Text Changed....");
+            Console.WriteLine("Committing to another branch....");
         }
     }
 }
